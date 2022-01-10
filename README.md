@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the projects  of the 42 school
 - 🌱 I’m currently learning more about C, dart and algorithms
 - 💬 Ask me about anything and i will do my best to help you
-- 📫 How to reach me: adrossig@student.s19.be
+- 📫 How to reach me: arossign@student.42roma.it
 
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrossig&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
