@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the projects  of the 42 school
-- 🌱 I’m currently learning more about C, dart and UI/UX
+- 🌱 I’m currently learning more about Dart/Flutter, React and Swift
 - 💬 Ask me about anything and i will do my best to help you
 - 📫 How to reach me: arossign@student.42roma.it
 
