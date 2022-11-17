@@ -97,9 +97,9 @@
 ## Github Stats
 <div align="center">
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=adrossig&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adrossig&show_icons=true&count_private=true&hide_border=true" align="left" style="width:90%"/>
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrossig&hide_border=true&layout=compact" align="left" style="width: 100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrossig&hide_border=true&layout=compact" align="left" style="width: 80%"/>
 </td></tr></table>
 </div>
 
