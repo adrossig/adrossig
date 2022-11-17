@@ -1,26 +1,22 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>
 
 <br/>
 
-### <div align="center">I'm Adrien, a student in 42Roma Luiss 👨‍💻 and freelance mobile developer 🚀</div>
+### <div align="center">I'm Adrien, a freelance mobile developer 🚀</div>
 
 <br/>
 
-- 🔭 I’m currently working on my scholarship at [42Roma Luiss](https://github.com/adrossig/42Roma)
+- 🔭 I’m currently working
 - 🌱 I’m currently learning Design, UIKit
 - ❓ Ask me about anything and i will do my best to help you
 - 📫 How to reach me: adrienrossignol@outlook.fr
-- 😄 Pronouns: He/Him
-
 
 <br/>
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Programming Languages
 <div align="center">
@@ -30,19 +26,14 @@
 <img style="margin: 10px" src="https://www.apple.com/v/swift/c/images/overview/icon_swift_hero_large_2x.png" alt="Swift" height="35" />
 </div>
 
-
 ### Frontend
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="35" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="35" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="35" />
 </div>
 
-
 </td><td valign="top" width="33%">
-
 
 ### Backend
 <div align="center">
@@ -53,7 +44,6 @@
 </div>
 </div>
 
-
 ### Mobile App
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="35" />
@@ -61,18 +51,14 @@
 <img style="margin: 10px" src="https://swiftuidocs.com/static/icon-712afb14921a8324e754ab91fd1cfacf.png" alt="SwiftUI" height="35" />
 </div>
 
-
 </td><td valign="top" width="33%">
-
 
 ### Database
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="35" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="35" />
 </div>
-
 
 ### DevOps
 <div align="center">
@@ -81,11 +67,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />
 </div>
 
-
-
 </td><td valign="top" width="33%">
-
-
 
 ### Software
 <div align="center">
@@ -96,7 +78,6 @@
 </td></tr></table>
 
 <br/>
-
 
 ## Connect with me
 <div align="center">
@@ -111,9 +92,7 @@
 </a>
 </div>
 
-
 <br/>
-
 
 ## Github Stats
 <div align="center">
@@ -124,10 +103,6 @@
 </td></tr></table>
 </div>
 
-
 <br/>
 
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=adrossig&&style=flat-square)
-
-
